@@ -9,7 +9,7 @@ import cert1 from "@/assets/cert-1.png";
 import cert2 from "@/assets/cert-2.png";
 import cert3 from "@/assets/cert-3.png";
 import cert4 from "@/assets/cert-4.png";
-import resumePreview from "@/assets/resume-preview.jpg";
+import resumePreview from "@/assets/resume-preview.png";
 
 export const profile = {
   name: "Bandla Hari Prasanth",
